@@ -1,0 +1,89 @@
+/* body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+} */
+
+.container-01 {
+    background-color: #e4f9f5;
+    padding-top: 100px;
+}
+
+.container-01 h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+
+.profile img {
+    border-radius: 50%;
+}
+
+.profile h2 {
+    color: #66bfbf;
+}
+
+.featurette h2 {
+    color: #66bfbf;
+    text-align: center;
+
+
+}
+
+.featurette h3 {
+    color: #66bfbf;
+}
+
+.touch h2 {
+    color: #66bfbf;
+}
+
+.skill h2 {
+    color: #66bfbf;
+}
+
+.btn:hover {
+    color: var(--bs-btn-hover-color);
+    background-color: #66bfbf;
+    border-color: #66bfbf;
+}
+
+.btn-outline-info {
+    --bs-btn-color: #66bfbf;
+    --bs-btn-border-color: #66bfbf;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #66bfbf;
+    --bs-btn-hover-border-color: #66bfbf;
+    --bs-btn-focus-shadow-rgb: 13, 202, 240;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #66bfbf;
+    --bs-btn-active-border-color: #66bfbf;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #66bfbf;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #66bfbf;
+    --bs-gradient: none;
+}
+
+.container {
+    background-color: #66bfbf;
+
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+.container-02 {
+    background-color: #e4f9f5;
+    width: 100%;
+    height: 100%;
+}
+
+
+.container-02 a {
+    color: #66bfbf;
+}
